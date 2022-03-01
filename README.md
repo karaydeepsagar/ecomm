@@ -5,3 +5,4 @@ trigger
 1234567
 asdfghjkl
 qwertyuiop
+qwertyuioplkjhxz
